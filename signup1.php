@@ -3,9 +3,9 @@
     <body>
         <form action="signup1.php" method="POST">
             Username: <input type="text" name="username">
-            <br> />Password : <input type="password" name="password">
-            <br> />Email : <input type="text" name="email">
-            <br> /><input type="submit" name="submit" value="Register">
+            <br />Password : <input type="password" name="password">
+            <br />Email : <input type="text" name="email">
+            <br /><input type="submit" name="submit" value="Register">
 </form>
 </body>
 </html>
